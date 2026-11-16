@@ -1,0 +1,6 @@
+{
+  "name": "MatchQuadra",
+  "description": "Plataforma de agendamento de quadras esportivas e mural de desafios entre times e gestores de quadra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
